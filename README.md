@@ -14,7 +14,7 @@ Throughout this course, I have learned knowledge and acquired skills that really
 
 The complex problems are solved by computer scientists using computational methods and algorithms. They create software, develop efficient algorithms, and put into place new technologies that underpin the progress in areas like healthcare, finance, entertainment, and so on. It matters because their work underpins most points of modern life, from smartphones to advanced medical diagnostics to autonomous vehicles.
 
-Being a computer scientist, I solve problems in a structured manner. First, I analyze the problem to understand its scope and requirements. Then, I break it down into smaller components that are manageable. In devising solutions, I mostly make use of algorithms and data structures by iterating through design, implementation, testing, and optimization phases. The employment of computational thinking, critical analysis, and leveraging of existing technologies and frameworks become vital in solving such complex problems with much efficiency.
+Being a computer scientist, I solve problems in a structured manner. I start by analyzing the issue to determine its requirements and extent. Then, I break it down into smaller components that are manageable. In devising solutions, I mostly make use of algorithms and data structures by iterating through design, implementation, testing, and optimization phases. The employment of computational thinking, critical analysis, and leveraging of existing technologies and frameworks become vital in solving such complex problems with much efficiency.
 
 Ethical Responsibilities to the End User and the Organization 
 
